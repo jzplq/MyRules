@@ -15,7 +15,7 @@ private-ip-answer = true
 dns-direct-fallback-proxy = true
 
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,DIRECT
+RULE-SET,https://github.com/jzplq/FQRules/blob/3d613a0b9a1e378975b1e425b756c6310c159f6c/Microsoft.list,PROXY
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list,DIRECT
