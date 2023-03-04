@@ -1,2 +1,2 @@
-# MyRules
-FQRules
+MyRules
+
