@@ -1,5 +1,6 @@
 # source：https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Microsoft.yaml
 
+DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,here.com
 DOMAIN-SUFFIX,here.net
 DOMAIN-SUFFIX,azure
